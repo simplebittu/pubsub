@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "peerless-glass-355409",
+  "private_key_id": "a1621b7c11ea516631345cd9a2daf8e97a6af9f6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1J1O/L5YtwaZA\neBuhzSV3RCmHbHNiPKIzCKpLBj6nFsrIifk6gnmMTUbnfLVZD6IPeIZreVPuzyQs\nQLLbieBvIe4O2k6/BuHs8ERPQvga4f7o51Dx39/bueTkPliD/Pc3An1VRrUcgcdS\nn5JgFoDD2mrMZ2EmLCPvoNqBQud+IOtvyI2QlCc+mrzxayCQ0Fu1kkUgT272MkKM\nQYLTFHTZdjf24B94HYr4958MopKgL0crXB6HJDXN6/ZhSwt5qH3vfq2wKwFn9BBm\n4vXAsev9Gey848tI7MjZNIoBHQLr7XQsUSE0gpOS1DuVqJ7mavRWkYRwn9ve9BO5\nw95Z1zZzAgMBAAECggEAVPS3ms7nYFgT7uIlG1GJQ5Cs5TzgM+75pnNm4b5w/Y17\n1maWgnEULc9D9GYQ6k6hkx3T9G03BqUQcsx41OqpXZUM/tw01/OTWronXwCqOHlK\nQdHRrU1vv61DgiMXAfdNvPem7ao2X8MhRkddr0B+bNtvAKNu9Sb4R3YpYzuMMyLU\nyVZuzg7KsnpvweMPTU4i5dpxuoSWCKuo+3YopHCqDxDWyhd9H998tRenF61oGyCr\n5f/3UIAv+pvpzC+5psVHf8TEQMUwSyNkEoOrOut66eX8dyL6PWXeOVSXELnilNjp\nbUfCUoW+o8VGZugd5FpwHNQP2dqKoE/GurNzANfnwQKBgQDk8lJ8ViwoORYJ2z9R\nOUzamRxYNKPr40kC1FyX8Fo1xakOce+JogcHfz/os+Vk+U3p313CG56FBpVRuvFU\n4517MzHOUJsidmCUXYb2rSlMIkekNhbcHWkpdcXQXzmRBTk//zCAp1if2dEg9R33\nDko7UgON4kNRzN4lRanCNgb1IQKBgQDKj0JO3FJ71Vc8iJEZvoBczdI5veGhiCgL\nzzCjVQ+RNuj90PNKXr/cAJ2MbDVpwFyFUDnatnkeIIEPi/nC7QrzPACcD104VsVg\nBIfRnDpKAHqW+pk/fooUuJvxALFM2LTmtESr06/tS+qF3Wp5GLOuMAHCXZlDlvFE\nBB8xd/1lEwKBgAVjBjnStTtFDJWyyOyaUoqaK6aPpoO4V1FvubYBe73kJrQmTiKI\n421zuwc4pF8Z1pF4JfaZO8OZgg3oPiFnMZ9idvuJvfyzmFYlVTWcoWofLFxawXLw\nZjcJhFwAwZP98XjmAjgkt9sa/uatncTgWzLGHTtLZZYZIejymKnvJ37BAoGAK66L\nOSBwNT5Dqs00pV2cpubH4CXfo4sOP8W1knOEgOdbhWjrHm2iaFpFn4OyXRTbnvA3\nGcBiDCosSuL/wJaH1v5ojz8M9lpYBCXV+FD9jPnfdfGi3Lt4IZHSJz3j/lN5Z4sW\niAuFk+HcOHQQQv8duIGnz3eJ1raVXvqYk31xyrsCgYEA36w1z+SbNd0UlDGhKrQj\nU1vRu8UEDdQifB+B2UXJJNVe3gfnUhXWoUsUU1Z9sRDn02EMHec8EehWcqVvzH3C\nsEt74JWM5jqarGW8+ukyjzHkcxeiprk9ECtZ5vT6647G91IQRf66yHXIu2xsVStX\nhzpxJd8yRyubSdyMXcSRtcI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pubsub-quickstart@peerless-glass-355409.iam.gserviceaccount.com",
+  "client_id": "102228676621741701236",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pubsub-quickstart%40peerless-glass-355409.iam.gserviceaccount.com"
+}
